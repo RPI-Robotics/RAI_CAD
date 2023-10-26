@@ -1,0 +1,54 @@
+﻿Study Shape Generator:1 started: 10/24/2023, 5:45:24 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:45:25 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 10/24/2023, 5:45:43 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:45:43 PM
+Total time 0:00:00
+
+Study Shape Generator:1 started: 10/24/2023, 5:46:04 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:46:05 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 10/24/2023, 5:48:35 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:48:36 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 10/24/2023, 5:48:46 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:49:25 PM
+Total time 0:00:39
+
+Study Shape Generator:1 started: 10/24/2023, 5:50:30 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:50:51 PM
+Total time 0:00:21
+
+Study Shape Generator:1 started: 10/24/2023, 5:51:08 PM
+Number of configurations: 1
+Default mesh: 17179 elements, 26689 nodes
+Study Shape Generator:1 finished: 10/24/2023, 5:51:34 PM
+Total time 0:00:26
+
+Study Shape Generator:1 started: 10/24/2023, 5:52:25 PM
+Number of configurations: 1
+Default mesh: 323790 elements, 462903 nodes
+Study        Worst Jacobian ratio :  1.91  on element 85821 finished: 10/24/2023, 6:05:02 PM
+Total time 0:12:37
+
+Study Shape Generator:1 started: 10/24/2023, 6:05:22 PM
+Number of configurations: 1
+Default mesh: 50625 elements, 75569 nodes
+Study        Worst Jacobian ratio :  2.34  on element 10387 finished: 10/24/2023, 6:06:01 PM
+Total time 0:00:39
+
